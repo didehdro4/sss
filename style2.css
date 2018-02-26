@@ -23,5 +23,5 @@ body {
   -moz-transform: translate(-50%,-50%);
   -o-transform: translate(-50%,-50%);
   transform: translate(-50%.-50%);
-  box-shadow: 0px 0px 10px 10px blue;
+  box-shadow: 20px 20px 10px 10px blue;
 }
