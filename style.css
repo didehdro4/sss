@@ -1,4 +1,12 @@
-css file
-.css-selector {
-  font-family: 'Raleway', sans-serif;
+.css
+
+html {
+  background-color: #FFFFFF;
+}
+.P {
+  width:10px ;
+  height:90px ;
+  position: absolute;
+  top:90px ;
+  left:100px ;
 }
