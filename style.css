@@ -5,7 +5,7 @@ html {
 }
 .P {
   width:90px ;
-  height:90px ;
+  height:auto ;
   position: absolute;
   top:90px ;
   left:100px ;
