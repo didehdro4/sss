@@ -8,7 +8,10 @@ body {
   background: black;
   background-size: cover;
 }
-
+img{
+  position: relative;
+  top: 100px
+}
 .white-square {
   width:100px;
   height:100px;
