@@ -28,6 +28,62 @@ body {
     margin-top: 10px;
     float:left;
 }
+.trumpet {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.piano {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.saxophone {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.frenchhorn {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.clarinet {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.violin {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.guitar {
+      width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 #c {
     background-color: #3e181b;
     border: 3px solid #db1d2d;
