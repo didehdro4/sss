@@ -14,9 +14,9 @@ body {
 }
 
 }
-img {
+center {
   position: relative;
   width: 100px;
   height: 100px;
   opacity: .7;
-}  
+}
