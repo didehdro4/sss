@@ -4,6 +4,10 @@ html {
   background: black;
 }
 
+head {
+    color: white;
+}
+
 body {
   background: black;
   background-size: cover;
