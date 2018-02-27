@@ -17,5 +17,11 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-  
+
+}
+
+.instrunment {
+    width: 100;
+    height: auto;
+    margin-top: 50px;
 }
