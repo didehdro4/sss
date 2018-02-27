@@ -21,7 +21,9 @@ body {
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
 }
-.icon {
+.box {
+    width: 100px;
+    height: 100px;
     margin-left: 10px;
     margin-top: 10px;
     float:left;
@@ -29,9 +31,6 @@ body {
 #c {
     background-color: #3e181b;
     border: 3px solid #db1d2d;
-
-        width: 100px;
-        height: 100px;
 }
 
 
