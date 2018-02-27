@@ -12,10 +12,3 @@ body {
   background: black;
   background-size: cover;
 }
-
-img {
-  position: relative;
-  width: 100px;
-  height: 100px;
-  opacity: .7;
-}
