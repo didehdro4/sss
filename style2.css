@@ -1,27 +1,22 @@
-.css
+css file
 
 html {
-  background: red;
+  background: black;
+}
+
+head {
+    color: white;
 }
 
 body {
-  background: red;
+  background: black;
   background-size: cover;
 }
 
-.blue-square {
-  width:100px;
-  height:100px;
-  background-color: blue;
-  padding:20px;
-  margin:20px;
-  border-radius:25px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%,-50%);
-  -moz-transform: translate(-50%,-50%);
-  -o-transform: translate(-50%,-50%);
-  transform: translate(-50%.-50%);
-  box-shadow: 20px 20px 10px 10px blue;
+}
+img {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  opacity: 1;
 }
