@@ -8,11 +8,9 @@ body {
   background: black;
   background-size: cover;
 }
-img{
-  position: relative;
-  top: 190px;
+
 }
-.white-square {
+img {
   width:100px;
   height:100px;
   background-color: white;
