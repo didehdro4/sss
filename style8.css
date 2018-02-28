@@ -1,7 +1,10 @@
 css file
 .css-selector {
     font-family: 'Poiret One', cursive;
+<<<<<<< HEAD
     font-family: 'VT323', monospace;
+=======
+>>>>>>> origin/master
 }
 
 html {
@@ -18,10 +21,20 @@ body {
 }
 p    {
 	color: white;
+<<<<<<< HEAD
     text-align: center;
     text-shadow: 0 0 5px #FFFFFF;
 	
 }
+=======
+    font-family: Poiret One;
+    font-size: 180%;
+    text-align: center;
+	margin-bottom: 10px;
+	margin-top: 40;
+}
+
+>>>>>>> origin/master
 a:link {
     color: white;
     background-color: transparent;
@@ -181,6 +194,7 @@ a:active {
 
 
 
+<<<<<<< HEAD
 #tv{position: relative;
     width:400px;
     margin-left: auto;
@@ -222,4 +236,28 @@ a:active {
     margin-top: 455px;
     left: auto;
     right: auto;
+=======
+
+
+.tv{
+    position: relative;
+    display: block;
+    width: 400px;
+    height: 240px;
+    top: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: +1;
+}
+
+.video{
+    position: absolute;
+    display: block;
+    width: 400px;
+    height: 250px;
+    top: 230px;
+    margin-left: auto;
+    margin-right: auto;
+  
+>>>>>>> origin/master
 }
