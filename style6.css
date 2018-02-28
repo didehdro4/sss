@@ -1,0 +1,208 @@
+css file
+.css-selector {
+    font-family: 'Poiret One', cursive;
+}
+
+html {
+  background: black;
+}
+
+head {
+    color: white;
+}
+
+body {
+  background: black;
+  background-size: cover;
+}
+p    {
+	color: white;
+    font-family: Poiret One;
+    font-size: 180%;
+    text-align: center;
+	margin-bottom: 10px;
+	margin-top: 40;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#instrument {
+    width: 780px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-top: 30px;
+    float:left;
+}
+.trumpet {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.piano {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7;
+}
+.saxophone {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.frenchhorn {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.clarinet {
+      width: 110px;
+    height: 110px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: 1
+}
+.violin {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.guitar {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+
+#trumpet:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: -10px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+#piano:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: -30px;
+    opacity: 1;
+}
+#saxophone:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+#frenchhorn:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+#clarinet:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    opacity: 1;
+}
+#violin:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+    
+}
+#guitar:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+
+
+
+
+
+.tv{
+    position: relative;
+    display: block;
+    width: 400px;
+    height: 240px;
+    top: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: +1;
+}
+
+.video{
+    position: absolute;
+    display: block;
+    width: 400px;
+    height: 250px;
+    top: 230px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
