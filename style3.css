@@ -17,6 +17,7 @@ body {
 }
 p    {
 	color: white;
+<<<<<<< HEAD
     font-family: Poiret One;
     font-size: 180%;
     text-align: center;
@@ -51,6 +52,38 @@ a:active {
     margin-left: auto;
     margin-right: auto;
     position: relative;
+=======
+    font-family: courier;
+    font-size: 180%;
+    text-align: center;
+	margin-bottom: 10px
+	margin-top: 10;
+}
+
+
+#instrument {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    width: 758px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+<<<<<<< HEAD
+=======
+=======
+    height: 130px;
+    width: 1000px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+>>>>>>> b81f45f14d9de3032aec0bbb7791d69fee4e0b55
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
 }
 .box {
     width: 100px;
@@ -61,12 +94,20 @@ a:active {
     float:left;
 }
 .trumpet {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
     width: 80px;
     height: 80px;
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 30px;
     opacity: .7
+<<<<<<< HEAD
 }
 .piano {
     width: 110px;
@@ -138,6 +179,329 @@ a:active {
     width: 110px;
     height: 110px;
     cursor: pointer;
+=======
+<<<<<<< HEAD
+}
+.piano {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+=======
+=======
+      width: 80px;
+    height: 80px;
+    margin: ;
+    opacity: .7
+}
+.piano {
+      width: 80px;
+    height: 80px;
+    margin: auto;
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    opacity: .7
+}
+.saxophone {
+      width: 80px;
+    height: 80px;
+<<<<<<< HEAD
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+=======
+    margin: auto;
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    opacity: .7
+}
+.frenchhorn {
+      width: 80px;
+    height: 80px;
+<<<<<<< HEAD
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+=======
+    margin: auto;
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    opacity: .7
+}
+.clarinet {
+      width: 80px;
+    height: 80px;
+<<<<<<< HEAD
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+=======
+    margin: auto;
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    opacity: .7
+}
+.violin {
+      width: 80px;
+    height: 80px;
+<<<<<<< HEAD
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+=======
+    margin: auto;
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    opacity: .7
+}
+.guitar {
+      width: 80px;
+    height: 80px;
+<<<<<<< HEAD
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+=======
+    margin: auto;
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+    opacity: .7
+}
+
+#trumpet:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+=======
+    opacity: 1
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+}
+#piano:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+<<<<<<< HEAD
+}
+#frenchhorn:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+=======
+=======
+    opacity: 1
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+}
+#saxophone:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+<<<<<<< HEAD
+}
+#clarinet:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+=======
+=======
+    opacity: 1
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+}
+#frenchhorn:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+<<<<<<< HEAD
+}
+#violin:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+=======
+=======
+    opacity: 1
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+}
+#clarinet:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+<<<<<<< HEAD
+    
+}
+#guitar:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+=======
+=======
+    opacity: 1
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+}
+#violin:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+    
+=======
+    opacity: 1
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+}
+#guitar:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+<<<<<<< HEAD
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+
+
+<<<<<<< HEAD
+
+
+
+=======
+
+
+
+
+=======
+    opacity: 1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#c {
+    background-color: #3e181b;
+    border: 3px solid #db1d2d;
+>>>>>>> b81f45f14d9de3032aec0bbb7791d69fee4e0b55
+}
+.piano {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.saxophone {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.frenchhorn {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.clarinet {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.violin {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+.guitar {
+      width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity: .7
+}
+
+#trumpet:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+#piano:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: -30px;
+    opacity: 1;
+}
+#saxophone:hover {
+    width: 110px;
+    height: 110px;
+    cursor: pointer;
     margin-left: 0px;
     margin-right: 10px;
     margin-top: -30px;
@@ -185,10 +549,14 @@ a:active {
 
 
 
+
+>>>>>>> 851ad0e31b11692041131234f9f669bba394137b
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
 .tv{
     position: relative;
     display: block;
     width: 400px;
+<<<<<<< HEAD
     height: 240px;
     top: 130px;
     margin-left: auto;
@@ -206,3 +574,22 @@ a:active {
     margin-right: auto;
   
 }
+=======
+    height: auto;
+    top: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
