@@ -24,14 +24,6 @@ p    {
 	margin-bottom: 10px;
 	margin-top: 40;
 }
-p    {
-	color: white;
-    font-family: courier;
-    font-size: 180%;
-    text-align: center;
-	margin-bottom: 10px
-	margin-top: 10;
-}
 
 
 #instrument {
@@ -159,7 +151,7 @@ p    {
     margin-right: 10px;
     margin-top: -30px;
     opacity: 1;
-    
+
 }
 #guitar:hover {
     width: 110px;
@@ -180,28 +172,9 @@ p    {
     position: relative;
     display: block;
     width: 400px;
-<<<<<<< HEAD
     height: 240px;
     top: 130px;
     margin-left: auto;
     margin-right: auto;
     z-index: +1;
-=======
-    height: auto;
-    top: 220px;
-    margin-left: auto;
-    margin-right: auto;
-    z-index: -1;
->>>>>>> 6fcd5204e138d59d1d2631604a3081d20240bc2a
 }
-
-
-
-
-
-
-
-
-
-
-
