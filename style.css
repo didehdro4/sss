@@ -164,17 +164,19 @@ p    {
 
 
 
-
-
-.tv{
+#hehe {
     position: relative;
-    display: block;
-    width: 400px;
-    height: 240px;
-    top: 200px;
+    width:400px;
+    margin-top: 160px;
     margin-left: auto;
     margin-right: auto;
-    z-index: +1;
+
+
+}
+
+.tv{
+    width:400px;
+    position: fixed;
 }
 
 .header {

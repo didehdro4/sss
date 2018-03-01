@@ -54,12 +54,14 @@ a:active {
     position: relative;
 }
 .box {
+    position: relative;
     width: 100px;
     height: 100px;
-    margin-left: 10px;
-    margin-top: 10px;
-    margin-top: 30px;
-    float:left;
+    background-color: white;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -120px;
 }
 .trumpet {
     width: 110px;
@@ -182,17 +184,25 @@ a:active {
     opacity: 1;
 }
 
-
-#tv{position: relative;
+.hehe {
     width:400px;
     margin-left: auto;
     margin-right: auto;
-    top: 200px;
+    position: relative;
+    margin-top: 5px;
 
 }
 
+
+#tv{
+    width:400px;
+    position: fixed;
+    z-index: 2
+}
+
+
 .tv{
-    position: absolute;
+    position: relative;
     display: block;
     width: 400px;
     height: 240px;
@@ -200,13 +210,19 @@ a:active {
 }
 
 
-
-.video{
+#video{
     position: absolute;
     width: 320px;
     height: 222px;
     top: 2px;
     margin-left: 7px;
+    z-index: 1;
+}
+.video{
+    position: absolute;
+    width: 320px;
+    height: 222px;
+    top: 2px;
     z-index: 1;
 }
 
@@ -219,10 +235,55 @@ a:active {
 
 
 .songinfo{
+    position: relative;
+    width: 400px;
+    margin-top: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 500px;
     font-family: VT323;
     font-size: 100%;
-    margin-top: 455px;
-    left: auto;
-    right: auto;
+    text-align: center;
+    color: white;
     text-shadow: 0 0 5px #FFFFFF;
+    z-index: 1;
+}
+
+hid {
+    padding: 10px;
+    display: none;
+}
+
+show:hover + hid {
+    position: relative;
+    display: block;
+}
+
+
+.scroll {
+    width: 300px;
+    position: relative;
+    margin-top: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: VT323;
+    font-size: 100%;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 5px #FFFFFF;
+}
+
+.ss {
+    width: 300px;
+    position: relative;
+    margin-top: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    font-family: VT323;
+    font-size: 100%;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 5px #FFFFFF;
+    z-index: 3;
 }
